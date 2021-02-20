@@ -1,4 +1,7 @@
 # muzero-pytorch
+
+Modificado para python3 y mac. 1938.com.es
+
 Pytorch Implementation of MuZero : "[Mastering Atari , Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)"  based on [pseudo-code](https://arxiv.org/src/1911.08265v1/anc/pseudocode.py) provided by the authors
 
 _Note: This implementation has just been tested on CartPole-v1 and would required modifications(`in config folder`) for other environments_
