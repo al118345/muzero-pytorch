@@ -34,7 +34,7 @@ pyparsing==2.4.5
 pyrsistent==0.15.6
 pytest==5.3.1
 PyYAML==5.2
-ray==0.7.6
+ray
 redis==3.3.11
 requests==2.22.0
 requests-oauthlib==1.3.0
@@ -43,7 +43,7 @@ scipy==1.3.3
 setproctitle==1.1.10
 six==1.13.0
 tensorboard==2.1.0
-torch==1.3.1
+torch
 urllib3==1.25.7
 wcwidth==0.1.7
 Werkzeug==0.16.0
